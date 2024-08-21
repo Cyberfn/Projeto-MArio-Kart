@@ -1,0 +1,14 @@
+{
+  "name": "mario-kart-js",
+  "version": "1.0.0",
+  "description": "A simple Node.js project to simulate Mario Kart races based on specific rules and mechanics.",
+  "main": "mario-kart.js",
+  "scripts": {
+    "start": "node mario-kart.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["mario-kart", "game", "nodejs", "simulation", "racing"],
+  "author": "Fernando Nonato",
+  "license": "MIT",
+  "dependencies": {}
+}
